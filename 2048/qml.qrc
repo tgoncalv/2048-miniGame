@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Button.qml</file>
+        <file>Cell.qml</file>
+        <file>Add_remove_cells.qml</file>
+    </qresource>
+</RCC>
